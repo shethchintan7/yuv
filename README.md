@@ -1,2 +1,2 @@
 # yuv
-NV12 support for image format in golang
+Support for NV12 format which implements Image interface in golang
